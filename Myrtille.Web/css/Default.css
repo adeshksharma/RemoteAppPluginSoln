@@ -1,0 +1,21 @@
+﻿body {
+    background-color: #555555;
+}
+
+#left-pane {
+    max-height: 100vh;
+    overflow: auto;
+}
+
+#main-pane {
+    max-height: 100vh;
+}
+
+#right-pane {
+    max-height: 100vh;
+    overflow: auto;
+}
+
+.hidden {
+    display:none;
+}
